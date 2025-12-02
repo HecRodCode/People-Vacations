@@ -34,7 +34,7 @@ Esta herramienta facilita a los administradores controlar y visualizar la inform
 | Requisito              | Detalle                                             |
 |------------------------|----------------------------------------------------|
 | Python                 | Versión 3.10 o superior                            |
-| Archivos CSV necesarios| `usuarios.csv`, `employees.csv`, `vacations.csv`  |
+| Archivos CSV necesarios| `users.csv`, `employees.csv`, `vacations.csv`  |
 
 ### Pasos para ejecutar:
 
@@ -82,3 +82,4 @@ Esta herramienta facilita a los administradores controlar y visualizar la inform
 | Reportes                   | Actualmente son básicos; se podrían generar en PDF o Excel.            |
 | Validación de fechas       | Se podrían implementar selectores de calendario o interfaz gráfica.    |
 | Notificaciones             | No hay alertas automáticas de solicitudes pendientes; se puede agregar en futuras versiones. |
+
