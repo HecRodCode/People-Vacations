@@ -1,0 +1,4 @@
+id,name,vacations_start_date,vacations_end_date,calculated_days,state,month,year
+10001,Carlos Alberto Ramirez Lopez,2025-3-12,2025-3-22,10,APPROVED,12,2025
+10002,Hector Hernan Rios Rodriguez,2025-12-31,2026-1-13,12,REJECTED,12,2025
+10004,Maria Paulina Muriel,2025-12-24,2026-1-13,18,PENDING,12,2025
